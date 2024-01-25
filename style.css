@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.text-center{
+    text-align: center;
+}
+.m-4{
+    margin: 2rem 0px;
+}
+.search-container{
+    display: flex;
+    justify-content: center;
+}
+#search{
+    height: 3rem;
+    border: 1px solid black;
+    width: 345px;
+    padding: 0px 10px;
+    border-radius: 8px;
+}
+#btn{
+    margin: 0px 6px;
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 8px;
+    font-size: 20px;
+    background: green;
+    color: white;
+}
